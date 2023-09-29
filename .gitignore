@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+deps/f4*
+out/
+*.zip
+*.timestamp
